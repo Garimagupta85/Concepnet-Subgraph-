@@ -97,16 +97,16 @@ def extract_triples(tokens, intID):
                     temp = set()
                     link = 'http://api.conceptnet.io/c/en/'+ j['@id'].split("/en/")[1]
                     obj = requests.get(link).json()
-                for edge in obj['edges']:
-                    try:
-                        if(edge['end']['language']=='en'):
-                            # temp.add((i,edge['rel']['label'], edge['end']['label']))
-                            Id.append(intID)
-                            Sub.append(i)
-                            Obj.append(edge['end']['label'])
-                            rel.append(edge['rel']['label'])
-                    except KeyError:
-                        continue
+                    for edge in obj['edges']:
+                        try:
+                            if(edge['end']['language']=='en'):
+                                # temp.add((i,edge['rel']['label'], edge['end']['label']))
+                                Id.append(intID)
+                                Sub.append(i)
+                                Obj.append(edge['end']['label'])
+                                rel.append(edge['rel']['label'])
+                        except KeyError:
+                            continue
                 if(len(temp)!=0):
                     top[j['@id'].split("/en/")[1]] = list(temp)
                 else:
