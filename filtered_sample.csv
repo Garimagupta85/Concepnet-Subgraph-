@@ -1,0 +1,812 @@
+,0,1,2,3
+0,27,burger,Synonym,hamburger
+1,27,burger,FormOf,burger
+2,27,burger,Synonym,Warren Earl Burger
+18,27,burger,RelatedTo,patty
+93,27,thing,IsA,entity
+94,27,thing,Synonym,matter
+177,27,cap,AtLocation,a cap
+179,27,cap,IsA,protective covering
+200,27,graduation,RelatedTo,graduation
+207,27,graduation,HasSubevent,graduation
+255,27,drag,RelatedTo,drag
+257,27,drag,MannerOf,pull
+268,27,drag,Synonym,puff
+270,27,drag,IsA,clothing
+392,27,hurry,Synonym,haste
+407,27,tryna,HasContext,slang
+410,27,tryna,RelatedTo,try
+412,27,tryna,RelatedTo,to
+413,27,start,RelatedTo,beginning
+414,27,start,RelatedTo,begin
+417,27,start,IsA,turn
+467,27,already,RelatedTo,already
+491,27,trust,HasPrerequisite,trust
+492,27,trust,RelatedTo,trust
+641,27,malone,Synonym,Edmond Malone
+642,27,malone,RelatedTo,franklin county
+643,27,malone,RelatedTo,usa
+644,27,malone,RelatedTo,new york
+645,27,malone,RelatedTo,malone
+646,27,malone,RelatedTo,county seat
+653,27,malone,PartOf,new york
+655,27,malone,IsA,village
+668,27,bad,DistinctFrom,good
+696,27,album,RelatedTo,album
+697,27,album,AtLocation,record store
+698,27,album,UsedFor,storing photographs
+699,27,album,UsedFor,hearer
+700,27,album,UsedFor,play
+702,27,album,RelatedTo,record player
+704,27,album,UsedFor,sell
+716,27,aight,Synonym,aight
+717,27,aight,HasContext,slang
+718,27,aight,RelatedTo,all right
+719,27,aight,HasContext,aave
+720,27,aight,FormOf,aight
+721,27,aight,HasContext,us
+722,27,aight,EtymologicallyRelatedTo,all right
+723,27,aight,EtymologicallyRelatedTo,aight
+724,27,name,UsedFor,identify something or someone
+725,27,name,RelatedTo,person
+726,27,name,RelatedTo,title
+727,27,name,RelatedTo,personal
+728,27,name,RelatedTo,label
+730,27,name,UsedFor,labeling things
+732,27,name,RelatedTo,identity
+733,27,name,UsedFor,identification
+736,27,name,RelatedTo,moniker
+737,27,name,RelatedTo,identification
+739,27,name,RelatedTo,nomenclature
+742,27,name,IsA,name
+762,27,rider,RelatedTo,rider
+768,27,rider,PartOf,bill
+780,27,rider,IsA,rider
+782,27,dont,HasContext,nonstandard
+783,27,dont,DerivedFrom,dont
+784,27,dont,FormOf,don't
+825,27,rap,RelatedTo,music
+826,27,rap,IsA,music
+827,27,rap,RelatedTo,hip hop
+828,27,rap,RelatedTo,hip
+829,27,rap,RelatedTo,hop
+831,27,rap,Synonym,knock
+838,27,rap,IsA,bump
+842,27,rap,HasContext,music
+845,27,isnt,FormOf,isn't
+855,27,everybody,IsA,always younger than their father
+856,27,everybody,Synonym,everyone
+888,27,educated,RelatedTo,numerate
+893,27,educated,RelatedTo,intellectual
+897,27,educated,RelatedTo,enlightened
+898,27,educated,SimilarTo,self-educated
+900,27,educated,RelatedTo,informed
+901,27,educated,SimilarTo,educated
+903,27,educated,Desires,be educated
+905,27,enough,RelatedTo,sufficient
+925,27,understand,HasPrerequisite,think
+937,27,understand,Synonym,sympathize
+938,27,understand,MannerOf,understand
+940,27,understand,HasSubevent,understand
+942,27,understand,Causes,understand
+945,27,true,SimilarTo,real
+948,27,true,SimilarTo,true
+951,27,true,Synonym,unfeigned
+964,27,art,RelatedTo,painting
+966,27,art,RelatedTo,paintings
+969,27,art,RelatedTo,sculpture
+970,27,art,RelatedTo,museum
+971,27,art,RelatedTo,expression
+972,27,art,RelatedTo,drawing
+975,27,art,RelatedTo,museums
+976,27,art,Synonym,art
+977,27,art,RelatedTo,creative
+981,27,art,IsA,an art
+982,27,art,UsedFor,Art
+984,27,behind,RelatedTo,back
+1032,27,lyrics,RelatedTo,lyric
+1034,27,lyrics,CapableOf,be poems
+1035,27,talks,Synonym,negotiation
+1037,27,talks,RelatedTo,talk
+1075,27,problems,AtLocation,a quandry
+1079,27,problems,CapableOf,cause a headache
+1081,27,problems,IsA,unsolvable
+1112,27,ignorant,HasProperty,ignorant
+1114,27,ignorant,Synonym,unlettered
+1117,27,ignorant,Synonym,unknowledgeable
+1120,27,ignorant,Synonym,unversed
+1129,27,ignorant,RelatedTo,ignore
+1130,27,mind,RelatedTo,brain
+1131,27,mind,UsedFor,thinking
+1132,27,mind,PartOf,Mind
+1133,27,mind,RelatedTo,thinking
+1134,27,mind,RelatedTo,thought
+1165,27,cant,Synonym,bevel
+1169,27,cant,IsA,cant
+1176,27,comprehend,Synonym,embrace
+1185,27,comprehend,Synonym,get the picture
+1187,27,comprehend,Synonym,perceive
+1209,27,cock,IsA,a male chicken
+1214,27,cock,IsA,chicken
+1219,27,cock,RelatedTo,cock
+1223,27,cock,IsA,cock
+1228,27,cock,IsA,bird
+1229,27,juul,RelatedTo,pernille
+1230,27,juul,Synonym,Carl August Nielsen
+1231,27,juul,RelatedTo,norway
+1232,27,juul,RelatedTo,danish
+1241,27,hard,DistinctFrom,hard
+1247,27,hard,RelatedTo,difficult
+1251,27,hard,SimilarTo,hard
+1353,27,show,UsedFor,entertain
+1354,27,show,UsedFor,entertainment
+1357,27,show,AtLocation,a theatre
+1361,27,show,AtLocation,a television
+1362,27,show,UsedFor,an audience
+1367,27,show,MannerOf,show
+1375,27,girl,RelatedTo,female
+1377,27,girl,RelatedTo,young
+1380,27,girl,RelatedTo,woman
+1381,27,girl,DistinctFrom,girl
+1382,27,girl,DistinctFrom,boy
+1385,27,girl,Antonym,girl
+1386,27,girl,RelatedTo,child
+1388,27,girl,RelatedTo,person
+1389,27,girl,Antonym,boy
+1390,27,girl,RelatedTo,gender
+1391,27,girl,RelatedTo,young woman
+1392,27,girl,RelatedTo,boy
+1393,27,tell,HasPrerequisite,tell them
+1394,27,tell,MotivatedByGoal,tell someone something
+1395,27,tell,RelatedTo,tell
+1397,27,tell,Synonym,William Tell
+1526,27,hurtin,Causes,lovin
+1527,27,hurtin,FormOf,lovin
+1548,27,story,RelatedTo,tale
+1549,27,story,RelatedTo,book
+1550,27,story,RelatedTo,plot
+1552,27,story,UsedFor,entertainment
+1553,27,story,RelatedTo,novel
+1554,27,story,RelatedTo,narrative
+1555,27,story,RelatedTo,books
+1556,27,story,RelatedTo,bedtime
+1557,27,story,IsA,a story
+1558,27,story,AtLocation,a newspaper
+1559,27,story,RelatedTo,telling
+1560,27,story,RelatedTo,fairy
+1561,27,story,RelatedTo,fable
+1564,27,story,RelatedTo,fiction
+1566,27,story,IsA,story
+1568,27,picture,RelatedTo,photo
+1569,27,picture,RelatedTo,image
+1570,27,picture,RelatedTo,photograph
+1571,27,picture,RelatedTo,frame
+1572,27,picture,RelatedTo,camera
+1573,27,picture,RelatedTo,painting
+1574,27,picture,AtLocation,an art show
+1576,27,picture,RelatedTo,art
+1577,27,picture,RelatedTo,drawing
+1578,27,picture,RelatedTo,portrait
+1581,27,picture,RelatedTo,framed
+1582,27,picture,Synonym,mental picture
+1592,27,depressed,HasContext,biology
+1593,27,depressed,Synonym,down in the mouth
+1600,27,depressed,SimilarTo,low
+1601,27,depressed,SimilarTo,thin
+1606,27,depressed,Antonym,depressed
+1608,27,bart,Synonym,baronet
+1609,27,bart,Synonym,bt
+1612,27,bart,HasContext,british
+1613,27,bart,RelatedTo,baronet
+1614,27,bart,RelatedTo,diminutive
+1616,27,bart,IsA,an outlaw
+1617,27,bart,RelatedTo,bartholomew
+1618,27,bart,FormOf,bartholomew
+1619,27,bart,FormOf,bart
+1620,27,bart,RelatedTo,given name
+1623,27,simpson,Synonym,Wallis Warfield Simpson
+1624,27,simpson,Synonym,Sir James Young Simpson
+1625,27,simpson,FormOf,simpson
+1626,27,simpson,RelatedTo,patronymic
+1629,27,simpson,Synonym,simpson
+1631,27,simpson,RelatedTo,simon
+1634,27,simpson,DerivedFrom,son
+1635,27,simpson,RelatedTo,sim
+1637,27,simpson,RelatedTo,english
+1638,27,simpson,RelatedTo,scottish
+1643,27,kids,Desires,play with them
+1644,27,kids,Desires,play
+1647,27,kids,UsedFor,kids
+1649,27,kids,CapableOf,be trading baseball cards
+1650,27,kids,AtLocation,the park
+1654,27,kids,AtLocation,home
+1656,27,kids,IsA,slang for children
+1658,27,kids,Desires,read games magazines
+1664,27,feel,RelatedTo,feel
+1665,27,feel,RelatedTo,touch
+1666,27,feel,RelatedTo,sense
+1679,27,feel,MannerOf,feel
+1684,27,need,RelatedTo,want
+1685,27,need,RelatedTo,requirement
+1686,27,need,RelatedTo,desire
+1687,27,need,CausesDesire,buy something
+1688,27,need,MotivatedByGoal,you need them
+1689,27,need,RelatedTo,necessity
+1690,27,need,RelatedTo,require
+1691,27,need,RelatedTo,must
+1693,27,need,CausesDesire,write a program
+1694,27,need,RelatedTo,have
+1695,27,need,RelatedTo,necessary
+1696,27,need,RelatedTo,must have
+1724,27,kind,HasProperty,kind
+1725,27,kind,RelatedTo,nice
+1726,27,kind,RelatedTo,gentle
+1739,27,kind,Synonym,tolerant
+1740,27,kind,SimilarTo,kind-hearted
+1744,27,drugs,CapableOf,cloud your mind
+1745,27,drugs,ReceivesAction,prohibited
+1746,27,drugs,UsedFor,get high
+1747,27,drugs,IsA,substances
+1748,27,drugs,CapableOf,change your subjective consciousness 
+1749,27,drugs,CapableOf,cure illness
+1752,27,drugs,CapableOf,alter emotions
+1754,27,drugs,AtLocation,a concert
+1757,27,drugs,AtLocation,school
+1758,27,drugs,CapableOf,cause illness
+1760,27,drugs,HasContext,drugs
+1762,27,drugs,UsedFor,control symptoms of disease
+1763,27,drugs,CausesDesire,enjoy the day
+1766,27,cool,MotivatedByGoal,be cool
+1784,27,dude,Synonym,bloke
+1786,27,dude,Synonym,fop
+1789,27,dude,Synonym,dandy
+1791,27,dude,Synonym,fellow
+1803,27,giant,IsA,animal
+1806,27,giant,IsA,enterprise
+1810,27,giant,IsA,large person
+1812,27,giant,FormOf,giant
+1898,27,complaining,SimilarTo,complaining a 
+1900,27,complaining,RelatedTo,complaining
+1901,27,complaining,SimilarTo,protestant
+1908,27,complaining,SimilarTo,querulous
+1939,27,failing,FormOf,failing
+1963,27,skipping,HasSubevent,skipping
+1964,27,skipping,IsA,partially mental event
+1965,27,skipping,RelatedTo,skip
+1966,27,skipping,FormOf,skipping
+1968,27,skipping,IsA,intelligent agent activity
+1974,27,skipping,UsedFor,exercise
+1975,27,class,RelatedTo,school
+1976,27,class,RelatedTo,group
+1977,27,class,RelatedTo,room
+1978,27,class,RelatedTo,students
+1979,27,class,RelatedTo,class
+1980,27,class,RelatedTo,student
+1981,27,class,RelatedTo,teacher
+1982,27,class,RelatedTo,learning
+1983,27,class,AtLocation,class
+1984,27,class,PartOf,a class
+1985,27,class,AtLocation,a school
+1986,27,class,RelatedTo,school room
+1987,27,class,RelatedTo,school group
+1997,27,everyday,SimilarTo,informal
+2005,27,everyday,Synonym,unremarkable
+2007,27,everyday,SimilarTo,familiar
+2015,27,smoke,RelatedTo,fire
+2016,27,smoke,RelatedTo,cigarette
+2017,27,smoke,HasPrerequisite,light the cigarette
+2018,27,smoke,RelatedTo,air
+2019,27,smoke,HasPrerequisite,buy some cigarettes
+2021,27,smoke,UsedFor,smoke
+2022,27,smoke,CreatedBy,fire
+2023,27,smoke,RelatedTo,cigar
+2024,27,smoke,RelatedTo,gas
+2025,27,smoke,RelatedTo,cigarettes
+2026,27,smoke,RelatedTo,vapor
+2028,27,smoke,RelatedTo,fog
+2029,27,smoke,RelatedTo,grey
+2030,27,smoke,MotivatedByGoal,you're stupid
+2031,27,smoke,HasProperty,dangerous
+2032,27,smoke,HasPrerequisite,have a source of fire
+2033,27,smoke,MotivatedByGoal,you are addicted to nicotine
+2034,27,smoke,HasPrerequisite,have a cigarette
+2056,27,better,RelatedTo,good
+2071,27,better,SimilarTo,major
+2076,27,taking,Synonym,fetching
+2079,27,taking,Synonym,pickings
+2089,27,taking,RelatedTo,takings
+2097,27,bra,Synonym,brassiere
+2102,27,bra,DerivedFrom,bra
+2128,27,day,RelatedTo,time
+2130,27,day,RelatedTo,week
+2131,27,day,IsA,24 hours long
+2132,27,day,DistinctFrom,night
+2133,27,day,RelatedTo,hours
+2134,27,day,RelatedTo,night
+2135,27,day,RelatedTo,sun
+2136,27,day,Antonym,night
+2137,27,day,DistinctFrom,day
+2138,27,day,RelatedTo,twenty
+2139,27,day,Synonym,day
+2142,27,day,RelatedTo,twenty four
+2143,27,day,RelatedTo,four
+2144,27,day,Antonym,day
+2188,27,unless,RelatedTo,condition
+2196,27,unless,DerivedFrom,unless
+2257,27,man,RelatedTo,person
+2258,27,man,RelatedTo,boy
+2262,27,man,Synonym,man
+2265,27,man,IsA,man
+2268,27,man,RelatedTo,adult
+2271,27,man,RelatedTo,gender
+2273,27,man,DerivedFrom,man
+2275,27,man,RelatedTo,guy
+2318,27,knew,RelatedTo,know
+2323,27,knew,Antonym,knew
+2404,27,lowkey,FormOf,low key
+2407,27,lowkey,occupation,musician
+2408,27,lowkey,occupation,activism
+2409,27,lowkey,genre,hip hop music
+2410,27,lowkey,IsA,musical artist
+2515,27,goofy,AtLocation,disneyland
+2520,27,goofy,Synonym,whacky
+2522,27,goofy,RelatedTo,goofy
+2527,27,goofy,RelatedTo,quirky
+2528,27,goofy,SimilarTo,goofy
+2529,27,goofy,SimilarTo,switch
+2530,27,goofy,Synonym,goofy
+2531,27,pubg,RelatedTo,publicity
+2533,27,pubg,Synonym,advertise
+2535,27,pubg,RelatedTo,publicly
+2542,27,pubg,DerivedFrom,public
+2547,27,pubg,RelatedTo,publicist
+2548,27,pubg,Synonym,publicise
+2550,27,pubg,Synonym,advertising
+2556,27,pubg,FormOf,publicize
+2577,27,pubg,MannerOf,tell
+2579,27,mobile,RelatedTo,mobile
+2583,27,mobile,Antonym,mobile
+2588,27,mobile,SimilarTo,mechanized
+2595,27,mobile,IsA,sculpture
+2598,27,mobile,SimilarTo,maneuverable
+2728,27,hours,IsA,work time
+2736,27,whenever,RelatedTo,whatever
+2737,27,whenever,RelatedTo,whatsoever
+2738,27,whenever,DerivedFrom,when
+2747,27,fufu,FormOf,foo foo
+2748,27,fufu,RelatedTo,fufu
+2751,27,fufu,IsA,food
+2879,27,tries,FormOf,trie
+2882,27,tries,CapableOf,measure up
+3001,27,keep,MotivatedByGoal,keep it
+3002,27,keep,RelatedTo,retain
+3003,27,keep,RelatedTo,hold
+3017,27,keep,MannerOf,grow
+3019,27,talkin,Causes,a dry mouth
+3020,27,talkin,UsedFor,talking
+3021,27,talkin,HasSubevent,TALKING
+3022,27,talkin,UsedFor,Talking
+3023,27,talkin,RelatedTo,talking
+3024,27,talkin,Causes,a sore throat
+3026,27,talkin,HasPrerequisite,a mouth
+3028,27,talkin,UsedFor,speech
+3029,27,talkin,HasSubevent,walking
+3030,27,talkin,HasSubevent,laughing
+3031,27,talkin,Causes,a conversation
+3032,27,talkin,Synonym,talk
+3033,27,talkin,HasSubevent,you sneeze
+3035,27,talkin,HasPrerequisite,a voice
+3036,27,talkin,HasPrerequisite,language
+3037,27,talkin,HasSubevent,stutter
+3038,27,talkin,Synonym,talking
+3059,27,might,RelatedTo,strength
+3060,27,might,RelatedTo,could
+3061,27,might,RelatedTo,maybe
+3062,27,might,IsA,strength
+3074,27,might,RelatedTo,might
+3118,27,kiss,CausesDesire,kiss someone
+3119,27,kiss,MotivatedByGoal,express that you love them
+3120,27,kiss,HasPrerequisite,find someone to kiss
+3121,27,kiss,HasPrerequisite,brush your teeth
+3122,27,kiss,HasPrerequisite,kiss them
+3124,27,kiss,HasPrerequisite,pucker up
+3125,27,kiss,HasSubevent,you fall in love
+3126,27,kiss,HasSubevent,kiss them
+3127,27,kiss,MotivatedByGoal,show love
+3128,27,kiss,HasSubevent,they kiss you back
+3129,27,kiss,MotivatedByGoal,show affection
+3130,27,kiss,HasSubevent,touch lips
+3131,27,kiss,HasSubevent,pucker up
+3136,27,kiss,HasPrerequisite,greet
+3251,27,pull,RelatedTo,pull
+3252,27,pull,RelatedTo,action
+3253,27,pull,RelatedTo,tug
+3263,27,pull,IsA,advantage
+3269,27,pull,IsA,pull
+3291,27,love,CausesDesire,kiss someone
+3292,27,love,CausesDesire,propose to a woman
+3293,27,love,IsA,a feeling
+3294,27,love,CausesDesire,forgive someone
+3296,27,love,AtLocation,love
+3297,27,love,Causes,having sex
+3298,27,love,RelatedTo,emotion
+3300,27,love,AtLocation,a family
+3301,27,love,CapableOf,hurt
+3302,27,love,CausesDesire,feed your family
+3303,27,love,UsedFor,love
+3304,27,love,MotivatedByGoal,i love them
+3305,27,love,AtLocation,marriage
+3306,27,love,CausesDesire,sing
+3307,27,love,RelatedTo,feeling
+3308,27,love,RelatedTo,love
+3309,27,love,MotivatedByGoal,you love somebody
+3310,27,love,HasSubevent,kiss them
+3313,27,appreciate,MannerOf,understand
+3434,27,give,MannerOf,submit
+3445,27,lot,RelatedTo,parking
+3449,27,lot,Synonym,distribute
+3450,27,lot,Synonym,draw
+3451,27,lot,RelatedTo,lottery
+3459,27,lot,Synonym,Lot
+3460,27,lot,Synonym,fortune
+3463,27,lot,IsA,tract
+3472,27,credit,MannerOf,credit
+3477,27,credit,MannerOf,impute
+3479,27,credit,IsA,credit
+3525,27,successful,HasPrerequisite,work hard
+3526,27,successful,RelatedTo,productive
+3533,27,successful,SimilarTo,productive
+3539,27,successful,SimilarTo,victorious
+3566,27,distance,RelatedTo,length
+3569,27,distance,RelatedTo,measurement
+3570,27,distance,RelatedTo,measure
+3571,27,distance,RelatedTo,how
+3572,27,distance,RelatedTo,miles
+3573,27,distance,RelatedTo,how far
+3583,27,relationship,Causes,a relationship
+3585,27,relationship,RelatedTo,relationship
+3603,27,takes,Synonym,takes
+3650,27,commitment,IsA,commitment
+3662,27,lmfao,HasContext,internet slang
+3665,27,lmfao,HasContext,vulgar
+3666,27,lmfao,genre,hip hop music
+3669,27,lmfao,genre,electronic dance music
+3702,27,swear,HasSubevent,swear
+3716,27,swear,MannerOf,vow
+3721,27,god,PartOf,religion
+3722,27,god,IsA,a concept
+3723,27,god,AtLocation,heaven
+3724,27,god,CapableOf,be everywhere
+3725,27,god,AtLocation,church
+3726,27,god,RelatedTo,deity
+3727,27,god,HasA,a strange sense of humor
+3728,27,god,IsA,Love
+3729,27,god,IsA,an abstract creation of humanity
+3730,27,god,IsA,an imaginary friend for grown ups
+3731,27,god,HasProperty,glorified in christianity
+3732,27,god,RelatedTo,being
+3735,27,god,RelatedTo,almighty
+3736,27,god,IsA,a fairy tale for adults
+3737,27,god,Desires,a god
+3738,27,god,UsedFor,justify war
+3739,27,god,CapableOf,judge people
+3780,27,def,HasContext,rpg
+3781,27,def,HasContext,legal
+3782,27,def,HasContext,slang
+3784,27,def,RelatedTo,def
+3785,27,def,HasContext,aave
+3787,27,def,Antonym,def
+3832,27,accepted,Synonym,recognised
+3843,27,accepted,IsA,proposal
+3847,27,colleges,ReceivesAction,known as institutes of higher education
+3848,27,colleges,HasProperty,specialized in a specific topic
+3849,27,colleges,HasA,formal areas called yards
+3850,27,colleges,RelatedTo,college
+3852,27,colleges,HasContext,colleges
+3853,27,colleges,FormOf,college
+3861,27,lookin,UsedFor,looking
+3866,27,lookin,IsA,search
+3867,27,lookin,Synonym,look
+3877,27,lookin,Synonym,sounding
+3879,27,lookin,HasPrerequisite,looking
+3881,27,frats,FormOf,frat
+3882,27,frats,RelatedTo,frat
+3883,27,frats,RelatedTo,frats
+3884,27,join,RelatedTo,together
+3886,27,join,RelatedTo,connect
+3887,27,join,Synonym,connect
+3924,27,full,MotivatedByGoal,it is full
+3925,27,full,DistinctFrom,empty
+3927,27,full,Antonym,full
+3929,27,full,SimilarTo,full
+3931,27,full,SimilarTo,air-filled
+3933,27,full,SimilarTo,riddled
+3939,27,full,SimilarTo,plangent
+3941,27,full,SimilarTo,sonorous
+3943,27,full,Synonym,wax
+3944,27,surprises,RelatedTo,surprise
+3945,27,surprises,Desires,surprises
+3948,27,surprises,CapableOf,happen unexpectedly
+3949,27,wonder,Causes,wonder
+3951,27,wonder,MannerOf,question
+3963,27,wonder,IsA,astonishment
+4042,27,tweeted,FormOf,tweet
+4043,27,tweeted,RelatedTo,tweet
+4044,27,tweeted,DerivedFrom,tweeted
+4046,27,serious,SimilarTo,serious-minded
+4057,27,serious,SimilarTo,difficult
+4063,27,serious,SimilarTo,overserious
+4085,27,kill,HasPrerequisite,get a weapon
+4087,27,kill,RelatedTo,murder
+4088,27,kill,HasSubevent,someone or something dies
+4089,27,kill,HasSubevent,you feel remorse
+4090,27,kill,HasPrerequisite,have a weapon
+4091,27,kill,HasPrerequisite,murder them
+4093,27,kill,HasPrerequisite,buy a gun
+4094,27,kill,MotivatedByGoal,revenge
+4095,27,kill,HasPrerequisite,kill them
+4096,27,kill,CapableOf,kill
+4097,27,kill,MotivatedByGoal,defend yourself
+4098,27,kill,RelatedTo,death
+4101,27,kill,CausesDesire,kill someone
+4102,27,kill,HasSubevent,take a life
+4103,27,kill,HasPrerequisite,use a knife
+4104,27,kill,HasSubevent,shoot
+4132,27,become,RelatedTo,become
+4141,27,become,MannerOf,become
+4145,27,one,RelatedTo,number
+4147,27,one,RelatedTo,first
+4148,27,one,RelatedTo,two
+4149,27,one,IsA,a number
+4150,27,one,RelatedTo,single
+4157,27,one,FormOf,one
+4286,27,drama,IsA,writing style
+4303,27,drama,IsA,emotionality
+4307,27,idc,RelatedTo,idk
+4309,27,idc,RelatedTo,idgaf
+4311,27,idc,HasContext,internet slang
+4313,27,idc,HasContext,internet
+4314,27,idc,HasContext,text messaging
+4378,27,honestly,Synonym,really
+4390,27,honestly,Synonym,candidly
+4456,27,close,HasLastSubevent,close it
+4457,27,close,RelatedTo,near
+4458,27,close,DistinctFrom,far
+4459,27,close,RelatedTo,shut
+4460,27,close,SimilarTo,close
+4461,27,close,RelatedTo,close
+4463,27,close,MannerOf,close
+4577,27,shit,NotDesires,shit
+4581,27,shit,Synonym,jack
+4584,27,shit,Synonym,crap
+4587,27,shit,Synonym,bullshit
+4588,27,shit,Synonym,asshole
+4595,27,gon,RelatedTo,polygon
+4596,27,gon,HasContext,rail
+4597,27,gon,HasContext,trigonometry
+4598,27,gon,RelatedTo,gonal
+4599,27,remember,HasSubevent,you remember
+4600,27,remember,HasPrerequisite,memorize
+4601,27,remember,HasPrerequisite,write it down
+4602,27,remember,HasPrerequisite,not forget
+4603,27,remember,HasPrerequisite,repeat it
+4604,27,remember,RelatedTo,remember
+4605,27,remember,RelatedTo,memory
+4606,27,remember,MotivatedByGoal,use the information later
+4607,27,remember,HasPrerequisite,pay attention
+4608,27,remember,HasSubevent,remember
+4609,27,remember,RelatedTo,recall
+4610,27,remember,DistinctFrom,remember
+4611,27,remember,MannerOf,mention
+4615,27,remember,HasSubevent,correcting mistakes
+4621,27,half,RelatedTo,half
+4623,27,half,IsA,part
+4626,27,half,PartOf,basketball
+4630,27,half,PartOf,football
+4701,27,anyway,Synonym,in any event
+4703,27,anyway,RelatedTo,anyway
+4722,27,lol,HasContext,internet slang
+4729,27,lol,HasContext,text messaging
+4730,27,lol,RelatedTo,south sudan
+4731,27,lol,RelatedTo,lol
+4737,27,telling,UsedFor,telling
+4741,27,telling,UsedFor,telling you something
+4742,27,telling,Synonym,impressive
+4745,27,telling,IsA,informing
+4747,27,telling,IsA,telling
+4748,27,telling,Synonym,telltale
+4749,27,telling,Synonym,cogent
+4753,27,month,RelatedTo,year
+4755,27,month,RelatedTo,time
+4756,27,month,RelatedTo,days
+4757,27,month,RelatedTo,thirty
+4758,27,month,RelatedTo,thirty days
+4759,27,month,RelatedTo,calendar
+4760,27,month,RelatedTo,twelve
+4761,27,month,RelatedTo,weeks
+4762,27,month,RelatedTo,january
+4765,27,month,RelatedTo,measurement
+4766,27,month,RelatedTo,unit
+4767,27,month,RelatedTo,day
+4768,27,month,RelatedTo,part
+4770,27,month,IsA,month
+4965,27,twitter,Synonym,tweet
+4968,27,twitter,Synonym,chitter
+4974,27,twitter,Synonym,chirrup
+4984,27,beef,RelatedTo,beef
+4985,27,beef,AtLocation,a plate
+4998,27,beef,PartOf,beef
+5021,27,schoolers,FormOf,schooler
+5022,27,hilarious,Synonym,uproarious
+5028,27,hilarious,RelatedTo,hilarious
+5029,27,hilarious,RelatedTo,merriment
+5032,27,hilarious,Synonym,funny
+5033,27,hilarious,SimilarTo,hilarious
+5067,27,mean,HasProperty,mean
+5069,27,mean,RelatedTo,average
+5070,27,mean,DistinctFrom,nice
+5082,27,mean,Synonym,hateful
+5086,27,offend,Synonym,hurt
+5088,27,offend,Synonym,shock
+5092,27,offend,Synonym,transgress
+5094,27,offend,Synonym,pique
+5106,27,anyone,CapableOf,voice an opinion
+5107,27,anyone,CapableOf,join a club
+5108,27,anyone,CapableOf,voice their opinions
+5115,27,anyone,CapableOf,answer that question
+5117,27,anyone,CapableOf,lose his keys
+5119,27,anyone,CapableOf,iron their shirts
+5121,27,anyone,Synonym,anybody
+5135,27,throwing,Causes,throwing
+5138,27,throwing,IsA,propelling object
+5143,27,throwing,FormOf,throw
+5146,27,shade,RelatedTo,sun
+5147,27,shade,RelatedTo,tree
+5148,27,shade,RelatedTo,under
+5149,27,shade,RelatedTo,dark
+5150,27,shade,RelatedTo,trees
+5151,27,shade,RelatedTo,cool
+5152,27,shade,RelatedTo,darkness
+5153,27,shade,RelatedTo,cover
+5154,27,shade,RelatedTo,light
+5155,27,shade,RelatedTo,under tree
+5156,27,shade,RelatedTo,window
+5157,27,shade,RelatedTo,covering
+5158,27,shade,Synonym,shade
+5159,27,shade,UsedFor,shade
+5160,27,shade,RelatedTo,protection
+5161,27,shade,RelatedTo,under trees
+5162,27,shade,RelatedTo,shade
+5163,27,shade,AtLocation,a tree
+5164,27,shade,RelatedTo,blocked
+5165,27,shade,RelatedTo,area
+5167,27,dead,DistinctFrom,alive
+5168,27,dead,MotivatedByGoal,it is dead
+5171,27,dead,Antonym,alive
+5172,27,dead,DistinctFrom,dead
+5175,27,dead,SimilarTo,assassinated
+5182,27,dead,Synonym,drained
+5185,27,dead,SimilarTo,stillborn
+5206,27,radford,FormOf,radford
+5207,27,radford,IsA,bentley
+5209,27,home,RelatedTo,house
+5210,27,home,RelatedTo,place
+5211,27,home,RelatedTo,family
+5212,27,home,RelatedTo,living
+5214,27,home,RelatedTo,live
+5215,27,home,RelatedTo,dwelling
+5216,27,home,AtLocation,your home
+5217,27,home,IsA,where the heart is
+5218,27,home,RelatedTo,where
+5220,27,home,RelatedTo,heart
+5221,27,home,RelatedTo,building
+5222,27,home,UsedFor,living
+5223,27,home,RelatedTo,abode
+5224,27,home,RelatedTo,residence
+5225,27,home,AtLocation,a city
+5226,27,home,AtLocation,someone's home
+5227,27,home,AtLocation,a home
+5367,27,shooters,RelatedTo,shooter
+5368,27,shooters,FormOf,shooter
+5375,27,past,DistinctFrom,future
+5376,27,past,RelatedTo,time
+5377,27,past,RelatedTo,history
+5378,27,past,Antonym,past
+5382,27,past,RelatedTo,before
+5392,27,orphaned,SimilarTo,unparented
+5393,27,orphaned,SimilarTo,orphaned
+5405,27,orphaned,RelatedTo,orphan
+5406,27,orphaned,FormOf,orphan
+5422,27,killed,IsA,killed
+5431,27,innocent,HasProperty,innocent
+5432,27,innocent,RelatedTo,exculpatory
+5434,27,innocent,SimilarTo,exculpated
+5437,27,innocent,IsA,innocent
+5440,27,innocent,RelatedTo,righteous
+5443,27,innocent,SimilarTo,not guilty
+5447,27,innocent,Synonym,unacquainted
+5448,27,innocent,Synonym,ingenuous
+5470,27,put,RelatedTo,place
+5471,27,put,RelatedTo,golf
+5475,27,put,MannerOf,change
+5479,27,put,Synonym,frame
+5488,27,put,Synonym,arrange
+5489,27,put,RelatedTo,put
+5584,27,death,PartOf,life
+5585,27,death,AtLocation,a war
+5586,27,death,CapableOf,bring sorrow
+5591,27,death,RelatedTo,death
+5592,27,death,Synonym,Death
+5602,27,death,HasProperty,inevitable
+5604,27,row,IsA,fight
+5605,27,row,DistinctFrom,row
+5606,27,row,Antonym,row
+5622,27,row,IsA,row
+5629,27,insult,Synonym,abuse
+5633,27,insult,IsA,insult
+5661,27,disagree,HasSubevent,disagree
+5685,27,topic,IsA,topic
+5693,27,topic,Synonym,subject
+5765,27,learn,HasSubevent,to learn
+5766,27,learn,HasPrerequisite,study
+5768,27,learn,MotivatedByGoal,have more knowledge
+5769,27,learn,HasSubevent,they learn
+5776,27,learn,Causes,you learn something
+5777,27,learn,HasSubevent,learn something
+5790,27,proper,SimilarTo,comme il faut
+5819,27,argument,IsA,discussion
+5826,27,difference,HasPrerequisite,difference
+5832,27,difference,IsA,change
+5839,27,fake,RelatedTo,fake
+5846,27,fake,IsA,imitation
+5848,27,fake,Synonym,bullshit
+5851,27,fake,Synonym,faux
+5857,27,fake,IsA,fake
+5863,27,civil,SimilarTo,civilian
+5879,27,may,RelatedTo,month
+5880,27,may,RelatedTo,april
+5881,27,may,RelatedTo,after
+5882,27,may,RelatedTo,after april
+5883,27,may,RelatedTo,june
+5885,27,may,RelatedTo,spring
+5886,27,may,RelatedTo,before
+5887,27,may,RelatedTo,fifth
+5888,27,may,RelatedTo,before june
+5889,27,may,RelatedTo,fifth month
+5891,27,may,IsA,Gregorian calendar month
+5896,27,may,Synonym,may
+5994,27,wrong,HasProperty,wrong
+6006,27,wrong,SimilarTo,misguided
+6039,27,hangin,IsA,execution
+6052,27,hangin,IsA,hanging
+6062,27,wit,HasContext,wit
+6065,27,wit,FormOf,wit
+6075,27,wronged,DerivedFrom,wronged
+6088,27,wronged,RelatedTo,wrong
+6090,27,wronged,FormOf,wrong
+6093,27,terrible,RelatedTo,terrible
+6111,27,person,RelatedTo,human
+6112,27,person,CapableOf,cross a street
+6113,27,person,CapableOf,thank another person
+6114,27,person,CapableOf,voice an opinion
+6115,27,person,CapableOf,wind clock
+6118,27,person,Desires,a headache
+6119,27,person,Desires,clothing
+6120,27,person,IsA,a person
+6121,27,person,NotDesires,be diseased
+6122,27,person,RelatedTo,people
+6123,27,person,PartOf,society
+6124,27,person,CapableOf,board a plane
+6125,27,person,CapableOf,laugh at a joke
+6126,27,person,CapableOf,water a plant
+6127,27,person,NotDesires,break a leg
+6128,27,person,Desires,compliments
+6131,27,wont,Synonym,habit
+6137,27,wont,RelatedTo,habitual
+6138,27,wont,FormOf,wont
+6144,27,wont,RelatedTo,meo more
+6145,27,even,DistinctFrom,odd
+6154,27,even,Synonym,level
+6156,27,even,SimilarTo,lap-jointed
+6160,27,even,Synonym,yet
+6170,27,bother,MannerOf,confuse
