@@ -48,7 +48,7 @@ def remove_emoji(string):
                             "]+", flags=re.UNICODE)
     return emoji_pattern.sub(r'', string)
 
-data = [json.loads(l) for l in open('ALONE-Toxicity-Dataset_v5_1.json', 'r')]
+data = [json.loads(l) for l in open('data/ALONE-Toxicity-Dataset_v5_1.json', 'r')]
 df = pd.DataFrame(data)
 
 print(df.shape)
@@ -84,7 +84,7 @@ def freq_with_cosine(text,fd1, word, threshold=0.2):
             occurence += 1
     return occurence 
 
-striples = pd.read_csv("filtered_sample.csv")
+striples = pd.read_csv("data/filtered_sample.csv")
 
 # print(striples['1'][0])
 
@@ -128,7 +128,8 @@ fd_two = nltk.FreqDist(words2)
 Final_triples = []
 
 for i in range(len(striples)):
-    if pmi(striples['1'][i], striples['3'][i], fd_one, fd_two, words, words1, words2, True):
+    #To try different words, change the "i" values in the line below
+    if (i==50 or i==100 or i==300) and pmi(striples['1'][i], striples['3'][i], fd_one, fd_two, words, words1, words2, True):
         Final_triples.append((striples['1'][i], striples['2'][i], striples['3'][i]))
     else:       
         # striples.drop(i, inplace = False)
