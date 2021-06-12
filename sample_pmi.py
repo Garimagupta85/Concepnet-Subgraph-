@@ -88,16 +88,16 @@ striples = pd.read_csv("data/filtered_sample.csv")
 
 # print(striples['1'][0])
 
-def pmi(word1, word2, fd1, fd2, words, words1, words2, use_cosine):
+def pmi(word1, word2, fd1, words, words1, words2, use_cosine):
     # word1 = porter.stem(word1)
     # word2 = porter.stem(word2)
 
     word_freq_1 = fd1[word1] if fd1[word1]>0 else 1
-    word_freq_2 = fd2[word2] if fd2[word2]>0 else 1
+    word_freq_2 = fd1[word2] if fd1[word2]>0 else 1
     print(f"Freq: {word_freq_1}, {word_freq_2} ")
     if use_cosine:
         word_freq_1 += freq_with_cosine(corpus[27].lower(),fd1, word1)
-        word_freq_2 += freq_with_cosine(corpus[27].lower(),fd2, word2)
+        word_freq_2 += freq_with_cosine(corpus[27].lower(),fd1, word2)
     print(f"Freq after Cosine: {word_freq_1}, {word_freq_2} ")
     prob_word1 = word_freq_1/len(words1)
     prob_word2 = word_freq_2/len(words2)
@@ -123,13 +123,13 @@ print(len(words2))
 words = words1 + words2
 
 fd_one = nltk.FreqDist(words1) 
-fd_two = nltk.FreqDist(words2)
+# fd_two = nltk.FreqDist(words2)
 
 Final_triples = []
 
 for i in range(len(striples)):
     #To try different words, change the "i" values in the line below
-    if (i==50 or i==100 or i==300) and pmi(striples['1'][i], striples['3'][i], fd_one, fd_two, words, words1, words2, True):
+    if (i==50 or i==100 or i==300) and pmi(striples['1'][i], striples['3'][i], fd_one, words, words1, words2, True):
         Final_triples.append((striples['1'][i], striples['2'][i], striples['3'][i]))
     else:       
         # striples.drop(i, inplace = False)
