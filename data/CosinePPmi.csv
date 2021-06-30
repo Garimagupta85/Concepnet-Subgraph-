@@ -1,0 +1,911 @@
+girl,Antonym,girl,0,0,0,0
+girl,Antonym,boy,-0.03957362845569876,128,159,1
+depressed,Antonym,depressed,0,0,0,0
+day,Antonym,night,-0.006970056373460306,160,2,1
+day,Antonym,day,0,0,0,0
+knew,Antonym,knew,0,0,0,0
+mobile,Antonym,mobile,0,0,0,0
+def,Antonym,def,0,0,0,0
+full,Antonym,full,0,0,0,0
+dead,Antonym,alive,0.0,3,2,1
+past,Antonym,past,0,0,0,0
+row,Antonym,row,0,0,0,0
+cap,AtLocation,a cap,-1,-1,-1,-1
+album,AtLocation,record store,-1,-1,-1,-1
+problems,AtLocation,a quandry,-1,-1,-1,-1
+show,AtLocation,a theatre,-1,-1,-1,-1
+show,AtLocation,a television,-1,-1,-1,-1
+story,AtLocation,a newspaper,-1,-1,-1,-1
+picture,AtLocation,an art show,-1,-1,-1,-1
+kids,AtLocation,the park,-1,-1,-1,-1
+kids,AtLocation,home,-0.011083052667073932,160,3,1
+drugs,AtLocation,a concert,-1,-1,-1,-1
+drugs,AtLocation,school,0.0,3,2,1
+class,AtLocation,class,0,0,0,0
+class,AtLocation,a school,-1,-1,-1,-1
+goofy,AtLocation,disneyland,-0.006970056373460306,160,2,1
+love,AtLocation,love,0,0,0,0
+love,AtLocation,a family,-1,-1,-1,-1
+love,AtLocation,marriage,0.0,3,2,1
+god,AtLocation,heaven,0.0,3,2,1
+god,AtLocation,church,0.0,3,2,1
+beef,AtLocation,a plate,-1,-1,-1,-1
+shade,AtLocation,a tree,-1,-1,-1,-1
+home,AtLocation,your home,-1,-1,-1,-1
+home,AtLocation,a city,-1,-1,-1,-1
+home,AtLocation,someone's home,-1,-1,-1,-1
+home,AtLocation,a home,-1,-1,-1,-1
+death,AtLocation,a war,-1,-1,-1,-1
+lyrics,CapableOf,be poems,-1,-1,-1,-1
+problems,CapableOf,cause a headache,-1,-1,-1,-1
+kids,CapableOf,be trading baseball cards,-1,-1,-1,-1
+drugs,CapableOf,cloud your mind,-1,-1,-1,-1
+drugs,CapableOf,change your subjective consciousness ,-1,-1,-1,-1
+drugs,CapableOf,cure illness,-1,-1,-1,-1
+drugs,CapableOf,alter emotions,-1,-1,-1,-1
+drugs,CapableOf,cause illness,-1,-1,-1,-1
+tries,CapableOf,measure up,-1,-1,-1,-1
+love,CapableOf,hurt,0.3626666927961843,3,2,9
+god,CapableOf,be everywhere,-1,-1,-1,-1
+god,CapableOf,judge people,-1,-1,-1,-1
+surprises,CapableOf,happen unexpectedly,-1,-1,-1,-1
+kill,CapableOf,kill,0,0,0,0
+anyone,CapableOf,voice an opinion,-1,-1,-1,-1
+anyone,CapableOf,join a club,-1,-1,-1,-1
+anyone,CapableOf,voice their opinions,-1,-1,-1,-1
+anyone,CapableOf,answer that question,-1,-1,-1,-1
+anyone,CapableOf,lose his keys,-1,-1,-1,-1
+anyone,CapableOf,iron their shirts,-1,-1,-1,-1
+death,CapableOf,bring sorrow,-1,-1,-1,-1
+person,CapableOf,cross a street,-1,-1,-1,-1
+person,CapableOf,thank another person,-1,-1,-1,-1
+person,CapableOf,voice an opinion,-1,-1,-1,-1
+person,CapableOf,wind clock,-1,-1,-1,-1
+person,CapableOf,board a plane,-1,-1,-1,-1
+person,CapableOf,laugh at a joke,-1,-1,-1,-1
+person,CapableOf,water a plant,-1,-1,-1,-1
+understand,Causes,understand,0,0,0,0
+hurtin,Causes,lovin,-0.006970056373460306,160,2,1
+talkin,Causes,a dry mouth,-1,-1,-1,-1
+talkin,Causes,a sore throat,-1,-1,-1,-1
+talkin,Causes,a conversation,-1,-1,-1,-1
+love,Causes,having sex,-1,-1,-1,-1
+relationship,Causes,a relationship,-1,-1,-1,-1
+wonder,Causes,wonder,0,0,0,0
+throwing,Causes,throwing,0,0,0,0
+learn,Causes,you learn something,-1,-1,-1,-1
+need,CausesDesire,buy something,-1,-1,-1,-1
+need,CausesDesire,write a program,-1,-1,-1,-1
+drugs,CausesDesire,enjoy the day,-1,-1,-1,-1
+kiss,CausesDesire,kiss someone,-1,-1,-1,-1
+love,CausesDesire,kiss someone,-1,-1,-1,-1
+love,CausesDesire,propose to a woman,-1,-1,-1,-1
+love,CausesDesire,forgive someone,-1,-1,-1,-1
+love,CausesDesire,feed your family,-1,-1,-1,-1
+love,CausesDesire,sing,0.0,3,2,1
+kill,CausesDesire,kill someone,-1,-1,-1,-1
+smoke,CreatedBy,fire,-0.006970056373460306,160,2,1
+dont,DerivedFrom,dont,0,0,0,0
+simpson,DerivedFrom,son,-0.015289367443529826,3,18,1
+bra,DerivedFrom,bra,0,0,0,0
+unless,DerivedFrom,unless,0,0,0,0
+man,DerivedFrom,man,0,0,0,0
+pubg,DerivedFrom,public,-0.011094775566045753,3,159,1
+whenever,DerivedFrom,when,-0.039925482875857767,160,159,1
+tweeted,DerivedFrom,tweeted,0,0,0,0
+wronged,DerivedFrom,wronged,0,0,0,0
+educated,Desires,be educated,-1,-1,-1,-1
+kids,Desires,play with them,-1,-1,-1,-1
+kids,Desires,play,-0.006970056373460306,160,2,1
+kids,Desires,read games magazines,-1,-1,-1,-1
+girl,Antonym,girl,0,0,0,0
+girl,Antonym,boy,-0.03957362845569876,128,159,1
+depressed,Antonym,depressed,0,0,0,0
+day,Antonym,night,-0.006970056373460306,160,2,1
+day,Antonym,day,0,0,0,0
+knew,Antonym,knew,0,0,0,0
+mobile,Antonym,mobile,0,0,0,0
+def,Antonym,def,0,0,0,0
+full,Antonym,full,0,0,0,0
+dead,Antonym,alive,0.0,3,2,1
+past,Antonym,past,0,0,0,0
+row,Antonym,row,0,0,0,0
+cap,AtLocation,a cap,-1,-1,-1,-1
+album,AtLocation,record store,-1,-1,-1,-1
+problems,AtLocation,a quandry,-1,-1,-1,-1
+show,AtLocation,a theatre,-1,-1,-1,-1
+show,AtLocation,a television,-1,-1,-1,-1
+story,AtLocation,a newspaper,-1,-1,-1,-1
+picture,AtLocation,an art show,-1,-1,-1,-1
+kids,AtLocation,the park,-1,-1,-1,-1
+kids,AtLocation,home,-0.011083052667073932,160,3,1
+drugs,AtLocation,a concert,-1,-1,-1,-1
+drugs,AtLocation,school,0.0,3,2,1
+class,AtLocation,class,0,0,0,0
+class,AtLocation,a school,-1,-1,-1,-1
+goofy,AtLocation,disneyland,-0.006970056373460306,160,2,1
+love,AtLocation,love,0,0,0,0
+love,AtLocation,a family,-1,-1,-1,-1
+love,AtLocation,marriage,0.0,3,2,1
+god,AtLocation,heaven,0.0,3,2,1
+god,AtLocation,church,0.0,3,2,1
+beef,AtLocation,a plate,-1,-1,-1,-1
+shade,AtLocation,a tree,-1,-1,-1,-1
+home,AtLocation,your home,-1,-1,-1,-1
+home,AtLocation,a city,-1,-1,-1,-1
+home,AtLocation,someone's home,-1,-1,-1,-1
+home,AtLocation,a home,-1,-1,-1,-1
+death,AtLocation,a war,-1,-1,-1,-1
+lyrics,CapableOf,be poems,-1,-1,-1,-1
+problems,CapableOf,cause a headache,-1,-1,-1,-1
+kids,CapableOf,be trading baseball cards,-1,-1,-1,-1
+drugs,CapableOf,cloud your mind,-1,-1,-1,-1
+drugs,CapableOf,change your subjective consciousness ,-1,-1,-1,-1
+drugs,CapableOf,cure illness,-1,-1,-1,-1
+drugs,CapableOf,alter emotions,-1,-1,-1,-1
+drugs,CapableOf,cause illness,-1,-1,-1,-1
+tries,CapableOf,measure up,-1,-1,-1,-1
+love,CapableOf,hurt,0.3626666927961843,3,2,9
+god,CapableOf,be everywhere,-1,-1,-1,-1
+god,CapableOf,judge people,-1,-1,-1,-1
+surprises,CapableOf,happen unexpectedly,-1,-1,-1,-1
+kill,CapableOf,kill,0,0,0,0
+anyone,CapableOf,voice an opinion,-1,-1,-1,-1
+anyone,CapableOf,join a club,-1,-1,-1,-1
+anyone,CapableOf,voice their opinions,-1,-1,-1,-1
+anyone,CapableOf,answer that question,-1,-1,-1,-1
+anyone,CapableOf,lose his keys,-1,-1,-1,-1
+anyone,CapableOf,iron their shirts,-1,-1,-1,-1
+death,CapableOf,bring sorrow,-1,-1,-1,-1
+person,CapableOf,cross a street,-1,-1,-1,-1
+person,CapableOf,thank another person,-1,-1,-1,-1
+person,CapableOf,voice an opinion,-1,-1,-1,-1
+person,CapableOf,wind clock,-1,-1,-1,-1
+person,CapableOf,board a plane,-1,-1,-1,-1
+person,CapableOf,laugh at a joke,-1,-1,-1,-1
+person,CapableOf,water a plant,-1,-1,-1,-1
+understand,Causes,understand,0,0,0,0
+hurtin,Causes,lovin,-0.006970056373460306,160,2,1
+talkin,Causes,a dry mouth,-1,-1,-1,-1
+talkin,Causes,a sore throat,-1,-1,-1,-1
+talkin,Causes,a conversation,-1,-1,-1,-1
+love,Causes,having sex,-1,-1,-1,-1
+relationship,Causes,a relationship,-1,-1,-1,-1
+wonder,Causes,wonder,0,0,0,0
+throwing,Causes,throwing,0,0,0,0
+learn,Causes,you learn something,-1,-1,-1,-1
+need,CausesDesire,buy something,-1,-1,-1,-1
+need,CausesDesire,write a program,-1,-1,-1,-1
+drugs,CausesDesire,enjoy the day,-1,-1,-1,-1
+kiss,CausesDesire,kiss someone,-1,-1,-1,-1
+love,CausesDesire,kiss someone,-1,-1,-1,-1
+love,CausesDesire,propose to a woman,-1,-1,-1,-1
+love,CausesDesire,forgive someone,-1,-1,-1,-1
+love,CausesDesire,feed your family,-1,-1,-1,-1
+love,CausesDesire,sing,0.0,3,2,1
+kill,CausesDesire,kill someone,-1,-1,-1,-1
+smoke,CreatedBy,fire,-0.006970056373460306,160,2,1
+dont,DerivedFrom,dont,0,0,0,0
+simpson,DerivedFrom,son,-0.015289367443529826,3,18,1
+bra,DerivedFrom,bra,0,0,0,0
+unless,DerivedFrom,unless,0,0,0,0
+man,DerivedFrom,man,0,0,0,0
+pubg,DerivedFrom,public,-0.011094775566045753,3,159,1
+whenever,DerivedFrom,when,-0.039925482875857767,160,159,1
+tweeted,DerivedFrom,tweeted,0,0,0,0
+wronged,DerivedFrom,wronged,0,0,0,0
+educated,Desires,be educated,-1,-1,-1,-1
+kids,Desires,play with them,-1,-1,-1,-1
+kids,Desires,play,-0.006970056373460306,160,2,1
+kids,Desires,read games magazines,-1,-1,-1,-1
+god,Desires,a god,-1,-1,-1,-1
+surprises,Desires,surprises,0,0,0,0
+person,Desires,a headache,-1,-1,-1,-1
+person,Desires,clothing,-0.006970056373460306,160,2,1
+person,Desires,compliments,-0.006970056373460306,160,2,1
+bad,DistinctFrom,good,-0.039925482875857767,160,159,1
+hard,DistinctFrom,hard,0,0,0,0
+girl,DistinctFrom,girl,0,0,0,0
+girl,DistinctFrom,boy,-0.03957362845569876,128,159,1
+day,DistinctFrom,night,-0.006970056373460306,160,2,1
+day,DistinctFrom,day,0,0,0,0
+full,DistinctFrom,empty,0.0,3,2,1
+close,DistinctFrom,far,0.0,3,2,1
+remember,DistinctFrom,remember,0,0,0,0
+mean,DistinctFrom,nice,-0.007969968051417246,71,2,1
+dead,DistinctFrom,alive,0.0,3,2,1
+dead,DistinctFrom,dead,0,0,0,0
+past,DistinctFrom,future,0.006894551192688459,160,159,79
+row,DistinctFrom,row,0,0,0,0
+even,DistinctFrom,odd,-0.039925482875857767,160,159,1
+aight,EtymologicallyRelatedTo,all right,-1,-1,-1,-1
+aight,EtymologicallyRelatedTo,aight,0,0,0,0
+burger,FormOf,burger,0,0,0,0
+aight,FormOf,aight,0,0,0,0
+dont,FormOf,don't,-0.006970056373460306,160,2,1
+isnt,FormOf,isn't,-0.006970056373460306,160,2,1
+hurtin,FormOf,lovin,-0.006970056373460306,160,2,1
+bart,FormOf,bartholomew,0.0,3,2,1
+bart,FormOf,bart,0,0,0,0
+simpson,FormOf,simpson,0,0,0,0
+giant,FormOf,giant,0,0,0,0
+failing,FormOf,failing,0,0,0,0
+skipping,FormOf,skipping,0,0,0,0
+lowkey,FormOf,low key,-1,-1,-1,-1
+pubg,FormOf,publicize,0.0,3,2,1
+fufu,FormOf,foo foo,-1,-1,-1,-1
+tries,FormOf,trie,0.0,3,2,1
+colleges,FormOf,college,-0.006797372005639958,3,3,1
+frats,FormOf,frat,-0.006797372005639958,3,3,1
+tweeted,FormOf,tweet,0.0,3,2,1
+one,FormOf,one,0,0,0,0
+schoolers,FormOf,schooler,-0.039925482875857767,160,159,1
+throwing,FormOf,throw,0.0,3,2,1
+radford,FormOf,radford,0,0,0,0
+shooters,FormOf,shooter,-0.006797372005639958,3,3,1
+orphaned,FormOf,orphan,0.0,3,2,1
+wit,FormOf,wit,0,0,0,0
+wronged,FormOf,wrong,-0.006797372005639958,3,3,1
+wont,FormOf,wont,0,0,0,0
+lowkey,genre,hip hop music,-1,-1,-1,-1
+lmfao,genre,hip hop music,-1,-1,-1,-1
+lmfao,genre,electronic dance music,-1,-1,-1,-1
+god,HasA,a strange sense of humor,-1,-1,-1,-1
+colleges,HasA,formal areas called yards,-1,-1,-1,-1
+tryna,HasContext,slang,0.0,3,2,1
+aight,HasContext,slang,-0.006970056373460306,160,2,1
+aight,HasContext,aave,-0.039925482875857767,160,159,1
+aight,HasContext,us,-0.039925482875857767,160,159,1
+dont,HasContext,nonstandard,-0.006970056373460306,160,2,1
+rap,HasContext,music,0.0,3,2,1
+depressed,HasContext,biology,-0.039925482875857767,160,159,1
+bart,HasContext,british,0.0,3,2,1
+drugs,HasContext,drugs,0,0,0,0
+lmfao,HasContext,internet slang,-1,-1,-1,-1
+lmfao,HasContext,vulgar,0.0,3,2,1
+def,HasContext,rpg,3.5557995001770344,3,2,52
+def,HasContext,legal,-0.011094775566045753,3,159,1
+def,HasContext,slang,0.0,3,2,1
+def,HasContext,aave,-0.011094775566045753,3,159,1
+colleges,HasContext,colleges,0,0,0,0
+idc,HasContext,internet slang,-1,-1,-1,-1
+idc,HasContext,internet,0.0,3,2,1
+idc,HasContext,text messaging,-1,-1,-1,-1
+gon,HasContext,rail,-0.006970056373460306,160,2,1
+gon,HasContext,trigonometry,-0.006970056373460306,160,2,1
+lol,HasContext,internet slang,-1,-1,-1,-1
+lol,HasContext,text messaging,-1,-1,-1,-1
+wit,HasContext,wit,0,0,0,0
+close,HasLastSubevent,close it,-1,-1,-1,-1
+trust,HasPrerequisite,trust,0,0,0,0
+understand,HasPrerequisite,think,-0.039925482875857767,160,159,1
+tell,HasPrerequisite,tell them,-1,-1,-1,-1
+smoke,HasPrerequisite,light the cigarette,-1,-1,-1,-1
+smoke,HasPrerequisite,buy some cigarettes,-1,-1,-1,-1
+smoke,HasPrerequisite,have a source of fire,-1,-1,-1,-1
+smoke,HasPrerequisite,have a cigarette,-1,-1,-1,-1
+talkin,HasPrerequisite,a mouth,-1,-1,-1,-1
+talkin,HasPrerequisite,a voice,-1,-1,-1,-1
+talkin,HasPrerequisite,language,8.455644222333873,3,2,104
+kiss,HasPrerequisite,find someone to kiss,-1,-1,-1,-1
+kiss,HasPrerequisite,brush your teeth,-1,-1,-1,-1
+kiss,HasPrerequisite,kiss them,-1,-1,-1,-1
+kiss,HasPrerequisite,pucker up,-1,-1,-1,-1
+kiss,HasPrerequisite,greet,0.0,3,2,1
+successful,HasPrerequisite,work hard,-1,-1,-1,-1
+lookin,HasPrerequisite,looking,0.0,3,2,1
+kill,HasPrerequisite,get a weapon,-1,-1,-1,-1
+kill,HasPrerequisite,have a weapon,-1,-1,-1,-1
+kill,HasPrerequisite,murder them,-1,-1,-1,-1
+kill,HasPrerequisite,buy a gun,-1,-1,-1,-1
+kill,HasPrerequisite,kill them,-1,-1,-1,-1
+kill,HasPrerequisite,use a knife,-1,-1,-1,-1
+remember,HasPrerequisite,memorize,-0.006970056373460306,160,2,1
+remember,HasPrerequisite,write it down,-1,-1,-1,-1
+remember,HasPrerequisite,not forget,-1,-1,-1,-1
+remember,HasPrerequisite,repeat it,-1,-1,-1,-1
+remember,HasPrerequisite,pay attention,-1,-1,-1,-1
+learn,HasPrerequisite,study,-0.011094775566045753,3,159,1
+difference,HasPrerequisite,difference,0,0,0,0
+ignorant,HasProperty,ignorant,0,0,0,0
+kind,HasProperty,kind,0,0,0,0
+smoke,HasProperty,dangerous,-0.039925482875857767,160,159,1
+god,HasProperty,glorified in christianity,-1,-1,-1,-1
+colleges,HasProperty,specialized in a specific topic,-1,-1,-1,-1
+mean,HasProperty,mean,0,0,0,0
+innocent,HasProperty,innocent,0,0,0,0
+death,HasProperty,inevitable,-0.011094775566045753,3,159,1
+wrong,HasProperty,wrong,0,0,0,0
+graduation,HasSubevent,graduation,0,0,0,0
+understand,HasSubevent,understand,0,0,0,0
+skipping,HasSubevent,skipping,0,0,0,0
+talkin,HasSubevent,TALKING,0.0,3,2,1
+talkin,HasSubevent,walking,0.0,3,2,1
+talkin,HasSubevent,laughing,-0.011094775566045753,3,159,1
+talkin,HasSubevent,you sneeze,-1,-1,-1,-1
+talkin,HasSubevent,stutter,-0.011094775566045753,3,159,1
+kiss,HasSubevent,you fall in love,-1,-1,-1,-1
+kiss,HasSubevent,kiss them,-1,-1,-1,-1
+kiss,HasSubevent,they kiss you back,-1,-1,-1,-1
+kiss,HasSubevent,touch lips,-1,-1,-1,-1
+kiss,HasSubevent,pucker up,-1,-1,-1,-1
+love,HasSubevent,kiss them,-1,-1,-1,-1
+swear,HasSubevent,swear,0,0,0,0
+kill,HasSubevent,someone or something dies,-1,-1,-1,-1
+kill,HasSubevent,you feel remorse,-1,-1,-1,-1
+kill,HasSubevent,take a life,-1,-1,-1,-1
+kill,HasSubevent,shoot,0.0,3,2,1
+remember,HasSubevent,you remember,-1,-1,-1,-1
+remember,HasSubevent,remember,0,0,0,0
+remember,HasSubevent,correcting mistakes,-1,-1,-1,-1
+disagree,HasSubevent,disagree,0,0,0,0
+learn,HasSubevent,to learn,-1,-1,-1,-1
+learn,HasSubevent,they learn,-1,-1,-1,-1
+learn,HasSubevent,learn something,-1,-1,-1,-1
+thing,IsA,entity,-0.006970056373460306,160,2,1
+cap,IsA,protective covering,-1,-1,-1,-1
+drag,IsA,clothing,0.0,3,2,1
+start,IsA,turn,-0.039925482875857767,160,159,1
+malone,IsA,village,0.0,3,2,1
+name,IsA,name,0,0,0,0
+rider,IsA,rider,0,0,0,0
+rap,IsA,music,0.0,3,2,1
+rap,IsA,bump,-0.011094775566045753,3,159,1
+everybody,IsA,always younger than their father,-1,-1,-1,-1
+art,IsA,an art,-1,-1,-1,-1
+problems,IsA,unsolvable,0.0,3,2,1
+cant,IsA,cant,0,0,0,0
+cock,IsA,a male chicken,-1,-1,-1,-1
+cock,IsA,chicken,0.0,3,2,1
+cock,IsA,cock,0,0,0,0
+cock,IsA,bird,0.0,3,2,1
+story,IsA,a story,-1,-1,-1,-1
+story,IsA,story,0,0,0,0
+bart,IsA,an outlaw,-1,-1,-1,-1
+kids,IsA,slang for children,-1,-1,-1,-1
+drugs,IsA,substances,0.0,3,2,1
+giant,IsA,animal,0.0,3,2,1
+giant,IsA,enterprise,0.0,3,2,1
+giant,IsA,large person,-1,-1,-1,-1
+skipping,IsA,partially mental event,-1,-1,-1,-1
+skipping,IsA,intelligent agent activity,-1,-1,-1,-1
+day,IsA,24 hours long,-1,-1,-1,-1
+man,IsA,man,0,0,0,0
+lowkey,IsA,musical artist,-1,-1,-1,-1
+mobile,IsA,sculpture,0.0,3,2,1
+hours,IsA,work time,-1,-1,-1,-1
+fufu,IsA,food,0.0,3,2,1
+might,IsA,strength,-0.006970056373460306,160,2,1
+pull,IsA,advantage,-0.011094775566045753,3,159,1
+pull,IsA,pull,0,0,0,0
+love,IsA,a feeling,-1,-1,-1,-1
+lot,IsA,tract,-0.006970056373460306,160,2,1
+credit,IsA,credit,0,0,0,0
+commitment,IsA,commitment,0,0,0,0
+god,IsA,a concept,-1,-1,-1,-1
+god,IsA,Love,3.128670249682384,3,2,47
+god,IsA,an abstract creation of humanity,-1,-1,-1,-1
+god,IsA,an imaginary friend for grown ups,-1,-1,-1,-1
+god,IsA,a fairy tale for adults,-1,-1,-1,-1
+accepted,IsA,proposal,0.0,3,2,1
+lookin,IsA,search,0.0,3,2,1
+wonder,IsA,astonishment,-0.006970056373460306,160,2,1
+one,IsA,a number,-1,-1,-1,-1
+drama,IsA,writing style,-1,-1,-1,-1
+drama,IsA,emotionality,-0.039925482875857767,160,159,1
+half,IsA,part,0.0,3,2,1
+telling,IsA,informing,-0.006970056373460306,160,2,1
+telling,IsA,telling,0,0,0,0
+month,IsA,month,0,0,0,0
+throwing,IsA,propelling object,-1,-1,-1,-1
+radford,IsA,bentley,0.0,3,2,1
+home,IsA,where the heart is,-1,-1,-1,-1
+killed,IsA,killed,0,0,0,0
+innocent,IsA,innocent,0,0,0,0
+row,IsA,fight,0.0,3,2,1
+row,IsA,row,0,0,0,0
+insult,IsA,insult,0,0,0,0
+topic,IsA,topic,0,0,0,0
+argument,IsA,discussion,0.0,3,2,1
+difference,IsA,change,-0.039925482875857767,160,159,1
+fake,IsA,imitation,0.0,3,2,1
+fake,IsA,fake,0,0,0,0
+may,IsA,Gregorian calendar month,-1,-1,-1,-1
+hangin,IsA,execution,-0.006970056373460306,160,2,1
+hangin,IsA,hanging,0.014387546755599792,160,2,5
+person,IsA,a person,-1,-1,-1,-1
+drag,MannerOf,pull,-0.006797372005639958,3,3,1
+understand,MannerOf,understand,0,0,0,0
+show,MannerOf,show,0,0,0,0
+feel,MannerOf,feel,0,0,0,0
+pubg,MannerOf,tell,-0.011083052667073932,3,160,1
+keep,MannerOf,grow,-0.011094775566045753,3,159,1
+appreciate,MannerOf,understand,-0.011083052667073932,3,160,1
+give,MannerOf,submit,-0.006970056373460306,160,2,1
+credit,MannerOf,credit,0,0,0,0
+credit,MannerOf,impute,0.0,3,2,1
+swear,MannerOf,vow,0.0,3,2,1
+wonder,MannerOf,question,-0.039925482875857767,160,159,1
+become,MannerOf,become,0,0,0,0
+close,MannerOf,close,0,0,0,0
+remember,MannerOf,mention,-0.006970056373460306,160,2,1
+put,MannerOf,change,-0.011094775566045753,3,159,1
+bother,MannerOf,confuse,-0.006970056373460306,160,2,1
+tell,MotivatedByGoal,tell someone something,-1,-1,-1,-1
+need,MotivatedByGoal,you need them,-1,-1,-1,-1
+cool,MotivatedByGoal,be cool,-1,-1,-1,-1
+smoke,MotivatedByGoal,you're stupid,-1,-1,-1,-1
+smoke,MotivatedByGoal,you are addicted to nicotine,-1,-1,-1,-1
+keep,MotivatedByGoal,keep it,-1,-1,-1,-1
+kiss,MotivatedByGoal,express that you love them,-1,-1,-1,-1
+kiss,MotivatedByGoal,show love,-1,-1,-1,-1
+kiss,MotivatedByGoal,show affection,-1,-1,-1,-1
+love,MotivatedByGoal,i love them,-1,-1,-1,-1
+love,MotivatedByGoal,you love somebody,-1,-1,-1,-1
+full,MotivatedByGoal,it is full,-1,-1,-1,-1
+kill,MotivatedByGoal,revenge,0.0,3,2,1
+kill,MotivatedByGoal,defend yourself,-1,-1,-1,-1
+remember,MotivatedByGoal,use the information later,-1,-1,-1,-1
+dead,MotivatedByGoal,it is dead,-1,-1,-1,-1
+learn,MotivatedByGoal,have more knowledge,-1,-1,-1,-1
+shit,NotDesires,shit,0,0,0,0
+person,NotDesires,be diseased,-1,-1,-1,-1
+person,NotDesires,break a leg,-1,-1,-1,-1
+lowkey,occupation,musician,0.0,3,2,1
+lowkey,occupation,activism,0.0,3,2,1
+malone,PartOf,new york,-1,-1,-1,-1
+rider,PartOf,bill,0.0,3,2,1
+mind,PartOf,Mind,-0.039925482875857767,160,159,1
+class,PartOf,a class,-1,-1,-1,-1
+god,PartOf,religion,0.0,3,2,1
+half,PartOf,basketball,0.0,3,2,1
+half,PartOf,football,0.0,3,2,1
+beef,PartOf,beef,0,0,0,0
+death,PartOf,life,-0.011094775566045753,3,159,1
+person,PartOf,society,-0.039925482875857767,160,159,1
+drugs,ReceivesAction,prohibited,0.0,3,2,1
+colleges,ReceivesAction,known as institutes of higher education,-1,-1,-1,-1
+burger,RelatedTo,patty,0.0,3,2,1
+graduation,RelatedTo,graduation,0,0,0,0
+drag,RelatedTo,drag,0,0,0,0
+tryna,RelatedTo,try,-0.006797372005639958,3,3,1
+tryna,RelatedTo,to,0.0,3,2,1
+start,RelatedTo,beginning,-0.039925482875857767,160,159,1
+start,RelatedTo,begin,-0.039925482875857767,160,159,1
+already,RelatedTo,already,0,0,0,0
+trust,RelatedTo,trust,0,0,0,0
+malone,RelatedTo,franklin county,-1,-1,-1,-1
+malone,RelatedTo,usa,0.0,3,2,1
+malone,RelatedTo,new york,-1,-1,-1,-1
+malone,RelatedTo,malone,0,0,0,0
+malone,RelatedTo,county seat,-1,-1,-1,-1
+album,RelatedTo,album,0,0,0,0
+album,RelatedTo,record player,-1,-1,-1,-1
+aight,RelatedTo,all right,-1,-1,-1,-1
+name,RelatedTo,person,0.15640715725518758,3,160,71
+name,RelatedTo,title,0.0,3,2,1
+name,RelatedTo,personal,-0.011094775566045753,3,159,1
+name,RelatedTo,label,0.0,3,2,1
+name,RelatedTo,identity,0.0,3,2,1
+name,RelatedTo,moniker,0.0,3,2,1
+name,RelatedTo,identification,2.6302010616786426,3,2,41
+name,RelatedTo,nomenclature,6.488145240150165,3,2,84
+rider,RelatedTo,rider,0,0,0,0
+rap,RelatedTo,music,0.0,3,2,1
+rap,RelatedTo,hip hop,-1,-1,-1,-1
+rap,RelatedTo,hip,0.0,3,2,1
+rap,RelatedTo,hop,-0.011094775566045753,3,159,1
+educated,RelatedTo,numerate,-0.006970056373460306,160,2,1
+educated,RelatedTo,intellectual,-0.006970056373460306,160,2,1
+educated,RelatedTo,enlightened,-0.006970056373460306,160,2,1
+educated,RelatedTo,informed,-0.006970056373460306,160,2,1
+enough,RelatedTo,sufficient,-0.008601455725648209,43,2,1
+art,RelatedTo,painting,0.0,3,2,1
+art,RelatedTo,paintings,0.0,3,2,1
+art,RelatedTo,sculpture,0.0,3,2,1
+art,RelatedTo,museum,0.0,3,2,1
+art,RelatedTo,expression,0.0,3,2,1
+art,RelatedTo,drawing,-0.011094775566045753,3,159,1
+art,RelatedTo,museums,0.0,3,2,1
+art,RelatedTo,creative,0.0,3,2,1
+behind,RelatedTo,back,0.0,3,2,1
+lyrics,RelatedTo,lyric,-0.006797372005639958,3,3,1
+talks,RelatedTo,talk,-0.006797372005639958,3,3,1
+ignorant,RelatedTo,ignore,0.0,3,2,1
+mind,RelatedTo,brain,-0.006970056373460306,160,2,1
+mind,RelatedTo,thinking,-0.039925482875857767,160,159,1
+mind,RelatedTo,thought,-0.039925482875857767,160,159,1
+cock,RelatedTo,cock,0,0,0,0
+juul,RelatedTo,pernille,0.0,3,2,1
+juul,RelatedTo,norway,0.0,3,2,1
+juul,RelatedTo,danish,0.0,3,2,1
+hard,RelatedTo,difficult,-0.006970056373460306,160,2,1
+girl,RelatedTo,female,-0.03957362845569876,128,159,1
+girl,RelatedTo,young,-0.03957362845569876,128,159,1
+girl,RelatedTo,woman,-0.03957362845569876,128,159,1
+girl,RelatedTo,child,-0.03957362845569876,128,159,1
+girl,RelatedTo,person,-0.039575459805064356,128,160,1
+girl,RelatedTo,gender,-0.03957362845569876,128,159,1
+girl,RelatedTo,young woman,-1,-1,-1,-1
+girl,RelatedTo,boy,-0.03957362845569876,128,159,1
+tell,RelatedTo,tell,0,0,0,0
+story,RelatedTo,tale,-0.039925482875857767,160,159,1
+story,RelatedTo,book,-0.006970056373460306,160,2,1
+story,RelatedTo,plot,-0.006970056373460306,160,2,1
+story,RelatedTo,novel,-0.006970056373460306,160,2,1
+story,RelatedTo,narrative,-0.039925482875857767,160,159,1
+story,RelatedTo,books,-0.006970056373460306,160,2,1
+story,RelatedTo,bedtime,-0.006970056373460306,160,2,1
+story,RelatedTo,telling,-0.039932619709216834,160,160,1
+story,RelatedTo,fairy,-0.006970056373460306,160,2,1
+story,RelatedTo,fable,-0.006970056373460306,160,2,1
+story,RelatedTo,fiction,-0.006970056373460306,160,2,1
+picture,RelatedTo,photo,0.0,3,2,1
+picture,RelatedTo,image,0.0,3,2,1
+picture,RelatedTo,photograph,0.0,3,2,1
+picture,RelatedTo,frame,0.0,3,2,1
+picture,RelatedTo,camera,0.0,3,2,1
+picture,RelatedTo,painting,0.0,3,2,1
+picture,RelatedTo,art,-0.006797372005639958,3,3,1
+picture,RelatedTo,drawing,-0.011094775566045753,3,159,1
+picture,RelatedTo,portrait,0.0,3,2,1
+picture,RelatedTo,framed,0.0,3,2,1
+bart,RelatedTo,baronet,0.0,3,2,1
+bart,RelatedTo,diminutive,0.0,3,2,1
+bart,RelatedTo,bartholomew,0.0,3,2,1
+bart,RelatedTo,given name,-1,-1,-1,-1
+simpson,RelatedTo,patronymic,0.0,3,2,1
+simpson,RelatedTo,simon,0.0,3,2,1
+simpson,RelatedTo,sim,0.0,3,2,1
+simpson,RelatedTo,english,0.0,3,2,1
+simpson,RelatedTo,scottish,0.0,3,2,1
+feel,RelatedTo,feel,0,0,0,0
+feel,RelatedTo,touch,-0.006970056373460306,160,2,1
+feel,RelatedTo,sense,-0.039925482875857767,160,159,1
+need,RelatedTo,want,-0.011094775566045753,3,159,1
+need,RelatedTo,requirement,0.0,3,2,1
+need,RelatedTo,desire,-0.011094775566045753,3,159,1
+need,RelatedTo,necessity,-0.011094775566045753,3,159,1
+need,RelatedTo,require,0.11629006796586605,3,2,4
+need,RelatedTo,must,0.0,3,2,1
+need,RelatedTo,have,-0.011094775566045753,3,159,1
+need,RelatedTo,necessary,0.0,3,2,1
+need,RelatedTo,must have,-1,-1,-1,-1
+kind,RelatedTo,nice,0.0,3,2,1
+kind,RelatedTo,gentle,0.0,3,2,1
+complaining,RelatedTo,complaining,0,0,0,0
+skipping,RelatedTo,skip,0.0,3,2,1
+class,RelatedTo,school,0.0,3,2,1
+class,RelatedTo,group,0.0,3,2,1
+class,RelatedTo,room,0.0,3,2,1
+class,RelatedTo,students,0.0,3,2,1
+class,RelatedTo,class,0,0,0,0
+class,RelatedTo,student,0.0,3,2,1
+class,RelatedTo,teacher,0.0,3,2,1
+class,RelatedTo,learning,-0.011094775566045753,3,159,1
+class,RelatedTo,school room,-1,-1,-1,-1
+class,RelatedTo,school group,-1,-1,-1,-1
+smoke,RelatedTo,fire,-0.006970056373460306,160,2,1
+smoke,RelatedTo,cigarette,-0.006970056373460306,160,2,1
+smoke,RelatedTo,air,-0.006970056373460306,160,2,1
+smoke,RelatedTo,cigar,-0.006970056373460306,160,2,1
+smoke,RelatedTo,gas,-0.006970056373460306,160,2,1
+smoke,RelatedTo,cigarettes,-0.006970056373460306,160,2,1
+smoke,RelatedTo,vapor,-0.006970056373460306,160,2,1
+smoke,RelatedTo,fog,-0.006970056373460306,160,2,1
+smoke,RelatedTo,grey,-0.006970056373460306,160,2,1
+better,RelatedTo,good,-0.039925482875857767,160,159,1
+taking,RelatedTo,takings,0.19349322459158838,160,160,369
+day,RelatedTo,time,-0.039925482875857767,160,159,1
+day,RelatedTo,week,-0.006970056373460306,160,2,1
+day,RelatedTo,hours,-0.011083052667073932,160,3,1
+day,RelatedTo,night,-0.006970056373460306,160,2,1
+day,RelatedTo,sun,-0.006970056373460306,160,2,1
+day,RelatedTo,twenty,-0.006970056373460306,160,2,1
+day,RelatedTo,twenty four,-1,-1,-1,-1
+day,RelatedTo,four,-0.006970056373460306,160,2,1
+unless,RelatedTo,condition,-0.039925482875857767,160,159,1
+man,RelatedTo,person,-0.011083052667073932,3,160,1
+man,RelatedTo,boy,-0.011094775566045753,3,159,1
+man,RelatedTo,adult,-0.011094775566045753,3,159,1
+man,RelatedTo,gender,-0.011094775566045753,3,159,1
+man,RelatedTo,guy,0.0,3,2,1
+knew,RelatedTo,know,-0.011094775566045753,3,159,1
+goofy,RelatedTo,goofy,0,0,0,0
+goofy,RelatedTo,quirky,-0.006970056373460306,160,2,1
+pubg,RelatedTo,publicity,-0.011094775566045753,3,159,1
+pubg,RelatedTo,publicly,0.0,3,2,1
+pubg,RelatedTo,publicist,0.0,3,2,1
+mobile,RelatedTo,mobile,0,0,0,0
+whenever,RelatedTo,whatever,-0.039925482875857767,160,159,1
+whenever,RelatedTo,whatsoever,-0.006970056373460306,160,2,1
+fufu,RelatedTo,fufu,0,0,0,0
+keep,RelatedTo,retain,0.0,3,2,1
+keep,RelatedTo,hold,0.0,3,2,1
+talkin,RelatedTo,talking,0.0,3,2,1
+might,RelatedTo,strength,-0.006970056373460306,160,2,1
+might,RelatedTo,could,-0.006970056373460306,160,2,1
+might,RelatedTo,maybe,-0.039925482875857767,160,159,1
+might,RelatedTo,might,0,0,0,0
+pull,RelatedTo,pull,0,0,0,0
+pull,RelatedTo,action,-0.011094775566045753,3,159,1
+pull,RelatedTo,tug,0.0,3,2,1
+love,RelatedTo,emotion,0.05747891289916859,3,159,24
+love,RelatedTo,feeling,-0.011094775566045753,3,159,1
+love,RelatedTo,love,0,0,0,0
+lot,RelatedTo,parking,-0.006970056373460306,160,2,1
+lot,RelatedTo,lottery,-0.006970056373460306,160,2,1
+successful,RelatedTo,productive,-0.039925482875857767,160,159,1
+distance,RelatedTo,length,0.0,3,2,1
+distance,RelatedTo,measurement,0.0,3,2,1
+distance,RelatedTo,measure,0.0,3,2,1
+distance,RelatedTo,how,-0.011094775566045753,3,159,1
+distance,RelatedTo,miles,0.0,3,2,1
+distance,RelatedTo,how far,-1,-1,-1,-1
+relationship,RelatedTo,relationship,0,0,0,0
+god,RelatedTo,deity,0.0,3,2,1
+god,RelatedTo,being,-0.011094775566045753,3,159,1
+god,RelatedTo,almighty,0.2082124395464265,3,2,6
+def,RelatedTo,def,0,0,0,0
+colleges,RelatedTo,college,-0.006797372005639958,3,3,1
+frats,RelatedTo,frat,-0.006797372005639958,3,3,1
+frats,RelatedTo,frats,0,0,0,0
+join,RelatedTo,together,0.0,3,2,1
+join,RelatedTo,connect,0.0,3,2,1
+surprises,RelatedTo,surprise,-0.039932619709216834,160,160,1
+tweeted,RelatedTo,tweet,0.0,3,2,1
+kill,RelatedTo,murder,0.0,3,2,1
+kill,RelatedTo,death,-0.006797372005639958,3,3,1
+become,RelatedTo,become,0,0,0,0
+one,RelatedTo,number,0.0,3,2,1
+one,RelatedTo,first,-0.011094775566045753,3,159,1
+one,RelatedTo,two,0.0,3,2,1
+one,RelatedTo,single,-0.011094775566045753,3,159,1
+idc,RelatedTo,idk,0.0,3,2,1
+idc,RelatedTo,idgaf,0.0,3,2,1
+close,RelatedTo,near,0.0,3,2,1
+close,RelatedTo,shut,0.0,3,2,1
+close,RelatedTo,close,0,0,0,0
+gon,RelatedTo,polygon,-0.006970056373460306,160,2,1
+gon,RelatedTo,gonal,-0.006970056373460306,160,2,1
+remember,RelatedTo,remember,0,0,0,0
+remember,RelatedTo,memory,-0.006970056373460306,160,2,1
+remember,RelatedTo,recall,-0.006970056373460306,160,2,1
+half,RelatedTo,half,0,0,0,0
+anyway,RelatedTo,anyway,0,0,0,0
+lol,RelatedTo,south sudan,-1,-1,-1,-1
+lol,RelatedTo,lol,0,0,0,0
+month,RelatedTo,year,-0.011094775566045753,3,159,1
+month,RelatedTo,time,-0.011094775566045753,3,159,1
+month,RelatedTo,days,-0.011083052667073932,3,160,1
+month,RelatedTo,thirty,0.0,3,2,1
+month,RelatedTo,thirty days,-1,-1,-1,-1
+month,RelatedTo,calendar,0.0,3,2,1
+month,RelatedTo,twelve,0.0,3,2,1
+month,RelatedTo,weeks,0.0,3,2,1
+month,RelatedTo,january,0.0,3,2,1
+month,RelatedTo,measurement,0.0,3,2,1
+month,RelatedTo,unit,0.0,3,2,1
+month,RelatedTo,day,-0.011083052667073932,3,160,1
+month,RelatedTo,part,0.0,3,2,1
+beef,RelatedTo,beef,0,0,0,0
+hilarious,RelatedTo,hilarious,0,0,0,0
+hilarious,RelatedTo,merriment,-0.006970056373460306,160,2,1
+mean,RelatedTo,average,-0.037610668210939564,71,159,1
+shade,RelatedTo,sun,0.0,3,2,1
+shade,RelatedTo,tree,0.0,3,2,1
+shade,RelatedTo,under,0.0,3,2,1
+shade,RelatedTo,dark,0.0,3,2,1
+shade,RelatedTo,trees,0.0,3,2,1
+shade,RelatedTo,cool,-0.006797372005639958,3,3,1
+shade,RelatedTo,darkness,0.0,3,2,1
+shade,RelatedTo,cover,0.0,3,2,1
+shade,RelatedTo,light,0.0,3,2,1
+shade,RelatedTo,under tree,-1,-1,-1,-1
+shade,RelatedTo,window,0.0,3,2,1
+shade,RelatedTo,covering,0.0,3,2,1
+shade,RelatedTo,protection,0.0,3,2,1
+shade,RelatedTo,under trees,-1,-1,-1,-1
+shade,RelatedTo,shade,0,0,0,0
+shade,RelatedTo,blocked,0.0,3,2,1
+shade,RelatedTo,area,0.0,3,2,1
+home,RelatedTo,house,0.0,3,2,1
+home,RelatedTo,place,0.0,3,2,1
+home,RelatedTo,family,-0.011094775566045753,3,159,1
+home,RelatedTo,living,-0.011094775566045753,3,159,1
+home,RelatedTo,live,-0.011094775566045753,3,159,1
+home,RelatedTo,dwelling,0.0,3,2,1
+home,RelatedTo,where,0.0,3,2,1
+home,RelatedTo,heart,0.0,3,2,1
+home,RelatedTo,building,0.0,3,2,1
+home,RelatedTo,abode,0.0,3,2,1
+home,RelatedTo,residence,0.0,3,2,1
+shooters,RelatedTo,shooter,-0.006797372005639958,3,3,1
+past,RelatedTo,time,-0.039925482875857767,160,159,1
+past,RelatedTo,history,-0.006970056373460306,160,2,1
+past,RelatedTo,before,0.10350086418265945,160,159,240
+orphaned,RelatedTo,orphan,0.0,3,2,1
+innocent,RelatedTo,exculpatory,-0.011094775566045753,3,159,1
+innocent,RelatedTo,righteous,0.0,3,2,1
+put,RelatedTo,place,0.0,3,2,1
+put,RelatedTo,golf,0.0,3,2,1
+put,RelatedTo,put,0,0,0,0
+death,RelatedTo,death,0,0,0,0
+fake,RelatedTo,fake,0,0,0,0
+may,RelatedTo,month,-0.006797372005639958,3,3,1
+may,RelatedTo,april,0.0,3,2,1
+may,RelatedTo,after,-0.011094775566045753,3,159,1
+may,RelatedTo,after april,-1,-1,-1,-1
+may,RelatedTo,june,0.0,3,2,1
+may,RelatedTo,spring,0.0,3,2,1
+may,RelatedTo,before,0.041428853597956325,3,159,17
+may,RelatedTo,fifth,0.0,3,2,1
+may,RelatedTo,before june,-1,-1,-1,-1
+may,RelatedTo,fifth month,-1,-1,-1,-1
+wronged,RelatedTo,wrong,-0.006797372005639958,3,3,1
+terrible,RelatedTo,terrible,0,0,0,0
+person,RelatedTo,human,-0.039925482875857767,160,159,1
+person,RelatedTo,people,-0.039925482875857767,160,159,1
+wont,RelatedTo,habitual,-0.011094775566045753,3,159,1
+wont,RelatedTo,meo more,-1,-1,-1,-1
+educated,SimilarTo,self-educated,-0.039925482875857767,160,159,1
+educated,SimilarTo,educated,0,0,0,0
+TRUE,SimilarTo,real,-0.006977289812801424,159,2,1
+TRUE,SimilarTo,TRUE,0,0,0,0
+hard,SimilarTo,hard,0,0,0,0
+depressed,SimilarTo,low,-0.006970056373460306,160,2,1
+depressed,SimilarTo,thin,-0.006970056373460306,160,2,1
+kind,SimilarTo,kind-hearted,0.0,3,2,1
+complaining,SimilarTo,complaining a ,-1,-1,-1,-1
+complaining,SimilarTo,protestant,-0.006970056373460306,160,2,1
+complaining,SimilarTo,querulous,-0.006970056373460306,160,2,1
+everyday,SimilarTo,informal,-0.006970056373460306,160,2,1
+everyday,SimilarTo,familiar,-0.039925482875857767,160,159,1
+better,SimilarTo,major,-0.006970056373460306,160,2,1
+goofy,SimilarTo,goofy,0,0,0,0
+goofy,SimilarTo,switch,-0.006970056373460306,160,2,1
+mobile,SimilarTo,mechanized,0.0,3,2,1
+mobile,SimilarTo,maneuverable,0.0,3,2,1
+successful,SimilarTo,productive,-0.039925482875857767,160,159,1
+successful,SimilarTo,victorious,-0.006970056373460306,160,2,1
+full,SimilarTo,full,0,0,0,0
+full,SimilarTo,air-filled,0.0,3,2,1
+full,SimilarTo,riddled,0.0,3,2,1
+full,SimilarTo,plangent,0.0,3,2,1
+full,SimilarTo,sonorous,0.0,3,2,1
+serious,SimilarTo,serious-minded,-0.039925482875857767,160,159,1
+serious,SimilarTo,difficult,-0.006970056373460306,160,2,1
+serious,SimilarTo,overserious,-0.006970056373460306,160,2,1
+close,SimilarTo,close,0,0,0,0
+hilarious,SimilarTo,hilarious,0,0,0,0
+dead,SimilarTo,assassinated,0.0,3,2,1
+dead,SimilarTo,stillborn,0.0,3,2,1
+orphaned,SimilarTo,unparented,0.0,3,2,1
+orphaned,SimilarTo,orphaned,0,0,0,0
+innocent,SimilarTo,exculpated,0.0,3,2,1
+innocent,SimilarTo,not guilty,-1,-1,-1,-1
+proper,SimilarTo,comme il faut,-1,-1,-1,-1
+civil,SimilarTo,civilian,0.0,3,2,1
+wrong,SimilarTo,misguided,0.0,3,2,1
+even,SimilarTo,lap-jointed,0.028073744744937675,160,2,9
+burger,Synonym,hamburger,0.0,3,2,1
+burger,Synonym,Warren Earl Burger,-1,-1,-1,-1
+thing,Synonym,matter,-0.039925482875857767,160,159,1
+drag,Synonym,puff,0.0,3,2,1
+hurry,Synonym,haste,-0.039925482875857767,160,159,1
+malone,Synonym,Edmond Malone,-1,-1,-1,-1
+aight,Synonym,aight,0,0,0,0
+rap,Synonym,knock,0.0,3,2,1
+everybody,Synonym,everyone,-0.039925482875857767,160,159,1
+understand,Synonym,sympathize,-0.006970056373460306,160,2,1
+TRUE,Synonym,unfeigned,-0.006977289812801424,159,2,1
+art,Synonym,art,0,0,0,0
+talks,Synonym,negotiation,0.0,3,2,1
+ignorant,Synonym,unlettered,0.0,3,2,1
+ignorant,Synonym,unknowledgeable,0.0,3,2,1
+ignorant,Synonym,unversed,0.0,3,2,1
+cant,Synonym,bevel,0.0,3,2,1
+comprehend,Synonym,embrace,0.0,3,2,1
+comprehend,Synonym,get the picture,-1,-1,-1,-1
+comprehend,Synonym,perceive,-0.011094775566045753,3,159,1
+juul,Synonym,Carl August Nielsen,-1,-1,-1,-1
+tell,Synonym,William Tell,-1,-1,-1,-1
+picture,Synonym,mental picture,-1,-1,-1,-1
+depressed,Synonym,down in the mouth,-1,-1,-1,-1
+bart,Synonym,baronet,0.0,3,2,1
+bart,Synonym,bt,0.0,3,2,1
+simpson,Synonym,Wallis Warfield Simpson,-1,-1,-1,-1
+simpson,Synonym,Sir James Young Simpson,-1,-1,-1,-1
+simpson,Synonym,simpson,0,0,0,0
+kind,Synonym,tolerant,0.0,3,2,1
+dude,Synonym,bloke,-0.039925482875857767,160,159,1
+dude,Synonym,fop,-0.006970056373460306,160,2,1
+dude,Synonym,dandy,-0.006970056373460306,160,2,1
+dude,Synonym,fellow,-0.006970056373460306,160,2,1
+everyday,Synonym,unremarkable,-0.006970056373460306,160,2,1
+taking,Synonym,fetching,0.11852014710660504,160,2,46
+taking,Synonym,pickings,0.05035355625103943,160,2,17
+bra,Synonym,brassiere,0.0,3,2,1
+day,Synonym,day,0,0,0,0
+man,Synonym,man,0,0,0,0
+goofy,Synonym,whacky,-0.039925482875857767,160,159,1
+goofy,Synonym,goofy,0,0,0,0
+pubg,Synonym,advertise,0.0,3,2,1
+pubg,Synonym,publicise,0.0,3,2,1
+pubg,Synonym,advertising,0.0,3,2,1
+talkin,Synonym,talk,-0.006797372005639958,3,3,1
+talkin,Synonym,talking,0.0,3,2,1
+lot,Synonym,distribute,-0.006970056373460306,160,2,1
+lot,Synonym,draw,-0.006970056373460306,160,2,1
+lot,Synonym,Lot,-0.039925482875857767,160,159,1
+lot,Synonym,fortune,-0.006970056373460306,160,2,1
+takes,Synonym,takes,0,0,0,0
+accepted,Synonym,recognised,0.0,3,2,1
+lookin,Synonym,look,-0.011094775566045753,3,159,1
+lookin,Synonym,sounding,0.0,3,2,1
+join,Synonym,connect,0.0,3,2,1
+full,Synonym,wax,0.0,3,2,1
+honestly,Synonym,really,-0.039925482875857767,160,159,1
+honestly,Synonym,candidly,-0.006970056373460306,160,2,1
+shit,Synonym,jack,-0.006970056373460306,160,2,1
+shit,Synonym,crap,-0.017430421410796683,160,159,33
+shit,Synonym,bullshit,0.08891521306687267,160,2,33
+shit,Synonym,asshole,0.08891521306687267,160,2,33
+anyway,Synonym,in any event,-1,-1,-1,-1
+telling,Synonym,impressive,-0.006970056373460306,160,2,1
+telling,Synonym,telltale,-0.039925482875857767,160,159,1
+telling,Synonym,cogent,-0.006970056373460306,160,2,1
+twitter,Synonym,tweet,0.3626666927961843,3,2,9
+twitter,Synonym,chitter,5.260302108753991,3,2,71
+twitter,Synonym,chirrup,-0.011094775566045753,3,159,1
+hilarious,Synonym,uproarious,-0.039925482875857767,160,159,1
+hilarious,Synonym,funny,-0.039925482875857767,160,159,1
+mean,Synonym,hateful,-0.007969968051417246,71,2,1
+offend,Synonym,hurt,0.3626666927961843,3,2,9
+offend,Synonym,shock,-0.011094775566045753,3,159,1
+offend,Synonym,transgress,0.0,3,2,1
+offend,Synonym,pique,0.0,3,2,1
+anyone,Synonym,anybody,-0.039925482875857767,160,159,1
+shade,Synonym,shade,0,0,0,0
+dead,Synonym,drained,0.0,3,2,1
+innocent,Synonym,unacquainted,0.0,3,2,1
+innocent,Synonym,ingenuous,-0.011094775566045753,3,159,1
+put,Synonym,frame,0.0,3,2,1
+put,Synonym,arrange,0.0,3,2,1
+death,Synonym,Death,0.0,3,2,1
+insult,Synonym,abuse,-0.039925482875857767,160,159,1
+topic,Synonym,subject,-0.039925482875857767,160,159,1
+fake,Synonym,bullshit,0.0,3,2,1
+fake,Synonym,faux,0.0,3,2,1
+may,Synonym,may,0,0,0,0
+wont,Synonym,habit,-0.011094775566045753,3,159,1
+even,Synonym,level,-0.006970056373460306,160,2,1
+even,Synonym,yet,-0.039925482875857767,160,159,1
+album,UsedFor,storing photographs,-1,-1,-1,-1
+album,UsedFor,hearer,0.0,3,2,1
+album,UsedFor,play,0.0,3,2,1
+album,UsedFor,sell,18.70601448991272,3,2,199
+name,UsedFor,identify something or someone,-1,-1,-1,-1
+name,UsedFor,labeling things,-1,-1,-1,-1
+name,UsedFor,identification,2.6302010616786426,3,2,41
+art,UsedFor,Art,0.0,3,2,1
+mind,UsedFor,thinking,-0.039925482875857767,160,159,1
+show,UsedFor,entertain,-0.011094775566045753,3,159,1
+show,UsedFor,entertainment,-0.011094775566045753,3,159,1
+show,UsedFor,an audience,-1,-1,-1,-1
+story,UsedFor,entertainment,-0.039925482875857767,160,159,1
+kids,UsedFor,kids,0,0,0,0
+drugs,UsedFor,get high,-1,-1,-1,-1
+drugs,UsedFor,control symptoms of disease,-1,-1,-1,-1
+skipping,UsedFor,exercise,0.0,3,2,1
+smoke,UsedFor,smoke,0,0,0,0
+talkin,UsedFor,talking,0.0,3,2,1
+talkin,UsedFor,Talking,0.0,3,2,1
+talkin,UsedFor,speech,-0.011094775566045753,3,159,1
+love,UsedFor,love,0,0,0,0
+god,UsedFor,justify war,-1,-1,-1,-1
+lookin,UsedFor,looking,0.0,3,2,1
+telling,UsedFor,telling,0,0,0,0
+telling,UsedFor,telling you something,-1,-1,-1,-1
+shade,UsedFor,shade,0,0,0,0
+home,UsedFor,living,-0.011094775566045753,3,159,1
