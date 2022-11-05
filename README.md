@@ -1,4 +1,4 @@
-# Concepnet-Subgraph-
+# Concepnet-Subgraph
 To check the code, run `sample_pmi.py`
 
 In the `sample_pmi.py` consider these lines:
